@@ -1,0 +1,40 @@
+{
+	"cryptocontext": "test/cryptocontext.txt",
+	"pk": "test/pk.txt",
+	"parties": [
+		{
+			"id": 0,
+			"sk": "test/sk1.txt",
+			"ct": "test/ct1.txt",
+			"values": [82, 6, 67, 79, 82, 27, 23, 67, 24, 92, 65, 18, 14, 35, 9]
+		},
+		{
+			"id": 1,
+			"sk": "test/sk2.txt",
+			"ct": "test/ct2.txt",
+			"values": [8, 84, 18, 60, 34, 94, 32, 70, 22, 54, 68, 52, 32, 4, 29]
+
+		},
+		{
+			"id": 2,
+			"sk": "test/sk3.txt",
+			"ct": "test/ct3.txt",
+			"values": [60, 42, 39, 69, 42, 50, 68, 66, 56, 11, 38, 61, 13, 63, 79]
+
+		},
+		{
+			"id": 3,
+			"sk": "test/sk4.txt",
+			"ct": "test/ct4.txt",
+			"values": [44, 92, 53, 64, 100, 24, 37, 66, 41, 56, 90, 64, 32, 7, 25]
+
+		},
+		{
+			"id": 4,
+			"sk": "test/sk5.txt",
+			"ct": "test/ct5.txt",
+			"values": [84, 41, 84, 28, 23, 6, 45, 27, 84, 32, 29, 35, 59, 53, 52]
+
+		}
+	]
+}
